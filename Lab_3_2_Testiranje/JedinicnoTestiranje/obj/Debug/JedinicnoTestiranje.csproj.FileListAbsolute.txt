@@ -1,0 +1,7 @@
+D:\Desktop\Lab_3_2_Testiranje\JedinicnoTestiranje\bin\Debug\JedinicnoTestiranje.dll
+D:\Desktop\Lab_3_2_Testiranje\JedinicnoTestiranje\bin\Debug\JedinicnoTestiranje.pdb
+D:\Desktop\Lab_3_2_Testiranje\JedinicnoTestiranje\bin\Debug\Lab_3_2_Testiranje.exe
+D:\Desktop\Lab_3_2_Testiranje\JedinicnoTestiranje\bin\Debug\Lab_3_2_Testiranje.pdb
+D:\Desktop\Lab_3_2_Testiranje\JedinicnoTestiranje\obj\Debug\JedinicnoTestiranje.csprojResolveAssemblyReference.cache
+D:\Desktop\Lab_3_2_Testiranje\JedinicnoTestiranje\obj\Debug\JedinicnoTestiranje.dll
+D:\Desktop\Lab_3_2_Testiranje\JedinicnoTestiranje\obj\Debug\JedinicnoTestiranje.pdb

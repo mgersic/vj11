@@ -1,0 +1,14 @@
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\bin\Debug\Lab_3_2_Testiranje.exe.config
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\bin\Debug\Lab_3_2_Testiranje.exe
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\bin\Debug\Lab_3_2_Testiranje.pdb
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.csprojResolveAssemblyReference.cache
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.FrmMain.resources
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.FrmPravokutnik.resources
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.Properties.Resources.resources
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.csproj.GenerateResource.Cache
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.exe
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.pdb
+D:\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.FrmKvadrat.resources
+C:\Users\marko\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\bin\Debug\Lab_3_2_Testiranje.exe.config
+C:\Users\marko\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.exe
+C:\Users\marko\Desktop\Lab_3_2_Testiranje\Lab_3_2_Testiranje\obj\Debug\Lab_3_2_Testiranje.pdb
